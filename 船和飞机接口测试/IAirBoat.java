@@ -1,4 +1,4 @@
-package 船和飞机接口测试;
+package 鑸瑰拰椋炴満鎺ュ彛娴嬭瘯;
 
 public interface IAirBoat extends IPlane,IShip{
 
