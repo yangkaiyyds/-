@@ -1,4 +1,4 @@
-package ´¬ºÍ·É»ú½Ó¿Ú²âÊÔ;
+package èˆ¹å’Œé£æœºæ¥å£æµ‹è¯•;
 
 public class FighterPlane implements IPlane{
 private String name;
@@ -15,7 +15,7 @@ public void fly(double speed) {
 	System.out.println("my name is"+name+";my speed is"+speed);
 }
 public static void main(String[] args) {
-	IPlane plane=new FighterPlane("¼ß20");
+	IPlane plane=new FighterPlane("Â¼ÃŸ20");
 	plane.fly(2000);
 }
 }
